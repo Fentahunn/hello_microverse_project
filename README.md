@@ -106,7 +106,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Fentahunn/hello_microverse_project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +122,7 @@ If you like this project take it as resource for learning
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding prartner,.They are really supportive.
+I would like to thank my coding prartner.They are really supportive.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,6 +136,6 @@ I would like to thank my coding prartner,.They are really supportive.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://opensource.org/license/mit/) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
